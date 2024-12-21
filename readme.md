@@ -8,6 +8,8 @@ The Participation Earnings Smart Contract is a blockchain-based rewards system t
 
 ## Contract Address
 0x0698357df6b3ac100c909E4B25Edc7aA66b68d6b
+![image](https://github.com/user-attachments/assets/63e0a8a7-ac3b-44fc-9364-038e38963b0b)
+
 
 
 ## Key Features
